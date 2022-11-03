@@ -26,7 +26,7 @@ MusicUserBot vaistəsiylə telegramda özünüzə məxsus səsli söhbət botuna
 11) Artıq hər şey tamamdır Deploy buttonuna vuraraq MusicUserBotu heroku hesabınıza deploy edin )
 12) Deploy prosesi bitdikdən sonra dynonu açmağı unutmayın
 12) Çətinliy olarsa <a href="https://t.me/RoBotlarimGroup">support</a> qrupuna yazın
--👉 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aykhan026/MusicUserBot.git)
+-👉 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BTBRuslan/MusicUserBot/tree/master)
 
 
 ## 👇 Əmrlər
